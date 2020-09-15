@@ -3,8 +3,7 @@ let nameEl = document.getElementById('name')
 console.log(nameEl)
 
 
-
-
+// Mad Lib Generator
 
 // console.log('Hello, World')
 
