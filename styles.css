@@ -3,7 +3,29 @@ body{
     background: cornflowerblue;
     color: cornsilk;
     padding-top: 3em;
+}
 
 
-    
+.colorChange1 {
+    background: green;
+}
+
+.colorChange2 {
+    background: purple;
+}
+
+.color {
+    color: red;
+}
+
+.shrink {
+    transform: scale(0.8);
+}
+
+.remove {
+    display: none;
+}
+
+.hide {
+    visibility: hidden;
 }
